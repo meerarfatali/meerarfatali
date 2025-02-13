@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 Reach me @**meerarfatali01@gmail.com**
 
-- ⚡ Fun fact about me- **I do poetry though my code, and sometimes only I can understand what it means...🤔**
+- ⚡ Fun fact about me- **My code is my poetry, and sometimes only I can understand what it means...🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
