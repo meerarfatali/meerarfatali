@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hello there👋</h1>
 <h1 align="center">I'm Meer Arfat Ali</h1>
-<h3 align="center">A Software Developer, Passionate about driving the world towards Digital Transformation. I strive to bring a good change through Software Engineering.</h3>
+<h3 align="center">A Software Developer, Passionate about driving the world towards Digital Transformation. I strive to bring a positive change through Software Engineering.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meerarfatali" alt="meerarfatali" /></a> </p>
 
